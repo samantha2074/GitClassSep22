@@ -6,3 +6,4 @@ u2 has a lot to say.
 
 A new line added by u1.
 u2 has a lot to say. u2 is adding more stuff.
+u1 addition - line 9
