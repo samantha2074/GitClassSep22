@@ -5,3 +5,4 @@ Here is more text.
 u2 has a lot to say.
 
 A new line added by u1.
+u2 has a lot to say. u2 is adding more stuff.
